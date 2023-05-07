@@ -1,10 +1,9 @@
-User Interface Specification Document for User Creation Admin Panel:
+# User Interface Specification Document for User Creation Admin Panel
 
-Overview:
-We are creating a user creation interface admin panel for our company.
-The purpose of this panel is to allow us to easily manage our user accounts by creating new accounts, updating existing accounts, and deactivating inactive accounts. There are two sections. And those sections must include the things below.
+## Overview
+We are creating a user creation interface admin panel for our company. The purpose of this panel is to allow us to easily manage our user accounts by creating new accounts, updating existing accounts, and deactivating inactive accounts. There are two sections. And those sections must include the things below.
 
-Scheme:
+## Scheme
 
 ```
 User Creation Admin Panel
@@ -34,11 +33,11 @@ User Creation Admin Panel
             |___ Enabled
 ```
 
-1 - Header Section:
+### 1 - Header Section:
 
-1.1 - Create User Button: This button will be located in the left of header section. When clicked, it will open the panel to create a new user.
-1.2 - Hide Disabled Users Button: This button will be located in right of the "Create User Button" in header section. When clicked, it will toggle the display of disabled users in the user database.
-1.3 - Save User Button: This button will be located in the right of header section. When clicked, it must save the user.
+#### 1.1 - Create User Button: This button will be located in the left of header section. When clicked, it will open the panel to create a new user.
+#### 1.2 - Hide Disabled Users Button: This button will be located in right of the "Create User Button" in header section. When clicked, it will toggle the display of disabled users in the user database.
+#### 1.3 - Save User Button: This button will be located in the right of header section. When clicked, it must save the user.
 
 
 2 - Main Content Section:
