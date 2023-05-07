@@ -36,19 +36,31 @@ User Creation Admin Panel
 ### 1 - Header Section:
 
 ```
-1.1 - Create User Button: This button will be located in the left of header section. When clicked, it will open the panel to create a new user.
-1.2 - Hide Disabled Users Button: This button will be located in right of the "Create User Button" in header section. When clicked, it will toggle the display of disabled users in the user database.
+
+1.1 - Create User Button: This button will be located in the left of header section.
+When clicked, it will open the panel to create a new user.
+
+1.2 - Hide Disabled Users Button: This button will be located in right of the "Create User Button" in header section.
+When clicked, it will toggle the display of disabled users in the user database.
+
 1.3 - Save User Button: This button will be located in the right of header section. When clicked, it must save the user.
+
 ```
 
 ### 2 - Main Content Section:
 
 ```
-2.1 - User Database: The user database will be displayed on the left side of the main content section. It will show a list of all users in the system, along with their ID, username, email address, and enabled status.
-2.2 - New User Creation Panel: When the Create User Button is clicked or a when a previously created user is pressed in the database panel, a new panel will open on the right side of the main content section. This panel will allow us to enter the details of the new user.
+2.1 - User Database: The user database will be displayed on the left side of the main content section.
+It will show a list of all users in the system, along with their ID, username, email address, and enabled status.
+
+2.2 - New User Creation Panel: When the Create User Button is clicked or a when a previously created user is pressed in the database panel,
+a new panel will open on the right side of the main content section.
+This panel will allow us to enter the details of the new user.
+
 ```
 
-#### New User Creation Panel:
+#### New User Creation Panel
+
 The new user creation panel will include the following fields:
 
 ```
