@@ -6,6 +6,7 @@ The purpose of this panel is to allow us to easily manage our user accounts by c
 
 Scheme:
 
+```
 User Creation Admin Panel
 |
 |___  Header Section
@@ -31,6 +32,7 @@ User Creation Admin Panel
             |___ Email
             |___ User Roles
             |___ Enabled
+```
 
 1 - Header Section:
 
