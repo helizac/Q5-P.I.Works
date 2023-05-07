@@ -53,7 +53,7 @@ When clicked, it will toggle the display of disabled users in the user database.
 2.1 - User Database: The user database will be displayed on the left side of the main content section.
 It will show a list of all users in the system, along with their ID, username, email address, and enabled status.
 
-2.2 - New User Creation Panel: When the Create User Button is clicked or a when a previously created user is pressed in the database panel,
+2.2 - New User Creation Panel: When the Create User Button is clicked or a previously created user is pressed in the database panel,
 a new panel will open on the right side of the main content section.
 This panel will allow us to enter the details of the new user.
 
